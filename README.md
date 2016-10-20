@@ -26,7 +26,7 @@ if (byYarn()) {
 #### cwd
 
 Type: `string`<br>
-Default: `process.cwd()`
+Default: `undefined`
 
 The path to the directory that may contain a `yarn.lock`
 
