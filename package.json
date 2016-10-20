@@ -1,6 +1,6 @@
 {
   "name": "by-yarn",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check if your module is installed by Yarn.",
   "license": "MIT",
   "repository": "egoist/by-yarn",
