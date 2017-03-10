@@ -37,7 +37,7 @@ The path to the directory that may contain a `yarn.lock`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-
+ 
 ## License
 
 [MIT](https://egoist.mit-license.org/) © [EGOIST](https://github.com/egoist)
